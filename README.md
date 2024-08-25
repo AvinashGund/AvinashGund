@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvinashGund
-- 👀 I’m interested in Python, Cloud Computing, AI.
+- 👀 I’m interested in Java, C++, Python, Cloud Computing, AI.
 - 🌱 I’m currently learning Cloud Computing.
 - 💞️ I’m looking to collaborate on cloud, AI.
 - 📫 How to reach me 
