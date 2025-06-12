@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @AvinashGund
-- 👀 I’m interested in Java, C++, Python, Cloud Computing, AI.
-- 🌱 I’m currently learning Cloud Computing.
-- 💞️ I’m looking to collaborate on cloud, AI.
-- 📫 How to reach me 
-- avinashgund95@gmail.com
-- 9370993049
+👋 Hi, I’m Avinash Gund
 
-<!---
-AvinashGund/AvinashGund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Backend Engineer | Cloud Enthusiast | LLM Developer | Passionate about AI, Infrastructure, and solving real-world problems — in India and Japan.
+
+---
+
+ 💻 Tech Stack & Interests
+
+- **Languages & Frameworks:** Python, Django, FastAPI, Bash  
+- **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, Kubernetes, GitHub Actions  
+- **AI/ML & LLMs:** LangChain, Hugging Face, OpenAI APIs, Transformers  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, Jenkins, Prometheus, Grafana
+
+---
+
+🔧 Recent Projects
+
+- 📄 **PDF QA Assistant** — Chat with PDFs using free LLMs & FAISS (LangChain + Streamlit + Hugging Face)
+
+   🧑‍💼 About Me
+
+- 👨‍🎓 CS Graduate with 2+ years of backend & cloud experience  
+- 🧑‍💻 Internship at Koderbox Technologies: built APIs, unit tests, CI/CD pipelines  
+- 🌏 Studied in Japan (2024–2025); actively seeking global, remote, or Japan-based tech roles  
+- 💬 Languages: English, Hindi, 日本語 (JLPT N2 level)
+
+  📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/avinashgund95/)  
+- 💼 [Email](avinashgund95@gmail.com)
+
+> 🔍 Always learning, always building. Let’s collaborate, contribute, and create amazing things together.
