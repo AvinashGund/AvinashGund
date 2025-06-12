@@ -23,7 +23,7 @@
 - 👨‍🎓 CS Graduate with 2+ years of backend & cloud experience  
 - 🧑‍💻 Internship at Koderbox Technologies: built APIs, unit tests, CI/CD pipelines  
 - 🌏 Studied in Japan (2024–2025); actively seeking global, remote, or Japan-based tech roles  
-- 💬 Languages: English, Hindi, 日本語 (JLPT N2 level)
+- 💬 Languages: English, Hindi, 日本語 (JLPT N2 level), Marathi
 
   📫 Let’s Connect
 
